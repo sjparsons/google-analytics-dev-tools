@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Google Analytics Dev Console",
+  "description": "A Google Analytics console for Google Chrome",
+  "devtools_page": "devtools.html",
+  "version": "0.1",
+  "icons": {
+    "16": "images/logo-16.png",
+    "48": "images/logo-48.png",
+    "128": "images/logo-128.png"
+  }
+}

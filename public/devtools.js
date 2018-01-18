@@ -1,0 +1,1 @@
+chrome.devtools.panels.create("Analytics", "assets/images/toolbarIcon.png", "index.html");

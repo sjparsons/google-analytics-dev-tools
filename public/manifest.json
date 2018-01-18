@@ -1,7 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Google Analytics Dev Console",
-  "description": "A Google Analytics console for Google Chrome",
+  "name": "Google Analytics Dev Tools",
+  "short_name": "GA Dev Tools",
+  "description": "This Dev Tools extension provides an easily-readable summary of Google Analytics events sent by the current page in the DevTools.",
   "devtools_page": "devtools.html",
   "version": "0.1",
   "icons": {
